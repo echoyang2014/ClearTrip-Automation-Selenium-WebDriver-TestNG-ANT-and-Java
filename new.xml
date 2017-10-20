@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+
+  <test name="SuiteOneCaseOne">
+    <classes>
+      <class name="com.stta.SuiteOne.SuiteOneCaseOne"/>
+    </classes>
+  </test>
+  
+  <test name="SuiteOneCaseTwo">
+    <classes>
+      <class name="com.stta.SuiteOne.SuiteOneCaseTwo"/>
+    </classes>
+  </test>
+  <test name="SuiteTwoCaseOne">
+    <classes>
+      <class name="com.stta.SuiteTwo.SuiteTwoCaseOne"/>
+    </classes>
+  </test>
+  <test name="SuiteTwoCaseTwo">
+    <classes>
+      <class name="com.stta.SuiteTwo.SuiteTwoCaseTwo"/>
+    </classes>
+  </test>
+  
+</suite> <!-- Suite -->

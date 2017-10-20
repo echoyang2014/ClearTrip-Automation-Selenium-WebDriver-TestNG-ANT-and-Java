@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite1_Flights]">
+  <test name="S1Case1_OneWaySearchSummary(failed)">
+    <classes>
+      <class name="com.stta.Suite1_Flights.S1Case1_OneWaySearchSummary">
+        <methods>
+          <include name="run"/>
+        </methods>
+      </class> <!-- com.stta.Suite1_Flights.S1Case1_OneWaySearchSummary -->
+      <class name="com.stta.Suite1_Flights.S1Case7_MultiCityNavigateBack">
+        <methods>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- com.stta.Suite1_Flights.S1Case7_MultiCityNavigateBack -->
+    </classes>
+  </test> <!-- S1Case1_OneWaySearchSummary(failed) -->
+  <test name="S1Case7_MultiCityNavigateBack(failed)">
+    <classes>
+      <class name="com.stta.Suite1_Flights.S1Case7_MultiCityNavigateBack">
+        <methods>
+          <include name="teardown"/>
+          <include name="run"/>
+        </methods>
+      </class> <!-- com.stta.Suite1_Flights.S1Case7_MultiCityNavigateBack -->
+    </classes>
+  </test> <!-- S1Case7_MultiCityNavigateBack(failed) -->
+</suite> <!-- Failed suite [Suite1_Flights] -->

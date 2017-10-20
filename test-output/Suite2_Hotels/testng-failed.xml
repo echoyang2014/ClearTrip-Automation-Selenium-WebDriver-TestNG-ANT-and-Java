@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite2_Hotels]">
+  <test name="S2Case3_HotelsErrMsgCheckOutBlank(failed)">
+    <classes>
+      <class name="com.stta.Suite2_Hotels.S2Case3_HotelsErrMsgCheckOutBlank">
+        <methods>
+          <include name="run"/>
+        </methods>
+      </class> <!-- com.stta.Suite2_Hotels.S2Case3_HotelsErrMsgCheckOutBlank -->
+    </classes>
+  </test> <!-- S2Case3_HotelsErrMsgCheckOutBlank(failed) -->
+</suite> <!-- Failed suite [Suite2_Hotels] -->

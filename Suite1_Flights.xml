@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite1_Flights">
+
+<!-- If add more test cases In this suite, You need to add them as bellow. -->
+
+<test name="S1Case1_OneWaySearchSummary">
+    <classes>
+        <class name="com.stta.Suite1_Flights.S1Case1_OneWaySearchSummary" ></class>  
+    </classes>
+</test>
+
+<test name="S1Case2_OneWayErrorMsg">
+    <classes>
+        <class name="com.stta.Suite1_Flights.S1Case2_OneWayErrorMsg" ></class>  
+    </classes>
+</test>
+
+<test name="S1Case3_RoundTripSearchSummary">
+    <classes>
+        <class name="com.stta.Suite1_Flights.S1Case3_RoundTripSearchSummary" ></class>  
+    </classes>
+</test>
+
+<test name="S1Case4_RoundTripErrorMsg">
+    <classes>
+        <class name="com.stta.Suite1_Flights.S1Case4_RoundTripErrorMsg" ></class>  
+    </classes>
+</test>
+
+<test name="S1Case5_MultiCitySearchSummary">
+    <classes>
+        <class name="com.stta.Suite1_Flights.S1Case5_MultiCitySearchSummary" ></class>  
+    </classes>
+</test>
+
+<test name="S1Case6_MultiCityErrorMsg">
+    <classes>
+        <class name="com.stta.Suite1_Flights.S1Case6_MultiCityErrorMsg" ></class>  
+    </classes>
+</test>
+
+<test name="S1Case7_MultiCityNavigateBack">
+    <classes>
+        <class name="com.stta.Suite1_Flights.S1Case7_MultiCityNavigateBack" ></class>  
+    </classes>
+</test>
+
+<test name="S1Case8_MultiCityWarningMsg">
+    <classes>
+        <class name="com.stta.Suite1_Flights.S1Case8_MultiCityWarningMsg" ></class>  
+    </classes>
+</test>
+
+
+</suite>

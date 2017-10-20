@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite2_Hotels">
+
+<!-- If add more test cases In this suite, You need to add them as bellow. -->
+
+<test name="S2Case1_HotelsSummary">
+    <classes>
+        <class name="com.stta.Suite2_Hotels.S2Case1_HotelsSummary" ></class>  
+    </classes>
+</test>
+
+<test name="S2Case2_HotelsErrMsgWhereBlank">
+    <classes>
+        <class name="com.stta.Suite2_Hotels.S2Case2_HotelsErrMsgWhereBlank" ></class>  
+    </classes>
+</test>
+
+<test name="S2Case3_HotelsErrMsgCheckOutBlank">
+    <classes>
+        <class name="com.stta.Suite2_Hotels.S2Case3_HotelsErrMsgCheckOutBlank" ></class>  
+    </classes>
+</test>
+
+<test name="S2Case4_HotelsMoreTravellers">
+    <classes>
+        <class name="com.stta.Suite2_Hotels.S2Case4_HotelsMoreTravellers" ></class>  
+    </classes>
+</test>
+
+<test name="S2Case5_HotelsDuration">
+    <classes>
+        <class name="com.stta.Suite2_Hotels.S2Case5_HotelsDuration" ></class>  
+    </classes>
+</test>
+
+
+</suite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="ClearTrip_Automation">
+
+	<suite-files>
+<!-- If you have more test suites, Please add them bellow. -->
+   		<suite-file path="./Suite1_Flights.xml" />
+   		<suite-file path="./Suite2_Hotels.xml" />
+   
+  </suite-files>
+  
+ </suite>
