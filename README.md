@@ -1,6 +1,6 @@
 # ClearTrip-Automation-Using-Selenium
 
-This project is to write automated test script using Selenium WebDriver, TestNG, ANT to build an aumpmation framework for the website http://www.cleartrip.com
+This project is to write automated test scripts using Selenium WebDriver, TestNG, ANT to build an automation framework for the website http://www.cleartrip.com
 
 All test scripts are located under src/ folder
 
